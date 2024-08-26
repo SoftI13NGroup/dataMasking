@@ -1,1 +1,4 @@
 faker
+transformers
+flask
+flask-cors
